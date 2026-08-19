@@ -97,7 +97,7 @@ toc::\[]
 * <https://karapace.io/[Karapace>]: Karapace (Aiven) is the open source schema registry you can run on your own platforms. Alternative (compatible replacement) for Confluent Schema Registry, supports Avro and JSON Schema. \[<https://github.com/aiven/karapace/blob/master/LICENSE[Apache> ⭐ 629 | 🐛 88 | 🌐 Python | 📅 2026-08-19 License 2.0]
 * [Stencil](https://github.com/odpf/stencil) ⭐ 237 | 🐛 17 | 🌐 Go | 📅 2026-04-21 - Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.
 * <https://javro.github.io/[Javro>]: Javro is an interface allowing you to write Avro schemas with ease, to validate it, and to preview it into JSON format with samples. <https://github.com/javro/javro/blob/master/LICENSE[Gpl> ⭐ 68 | 🐛 3 | 🌐 TypeScript | 📅 2022-11-14 3.0]
-* <https://github.com/confluentinc/schema-registry[Confluent> Schema Registry]: Confluent Schema Registry for Kafka. <https://github.com/confluentinc/schema-registry/blob/master/LICENSE[Confluent> ⭐ 2,461 | 🐛 393 | 🌐 Java | 📅 2026-08-19 Community License Agreement Version 1.0]
+* <https://github.com/confluentinc/schema-registry[Confluent> Schema Registry]: Confluent Schema Registry for Kafka. <https://github.com/confluentinc/schema-registry/blob/master/LICENSE[Confluent> ⭐ 2,461 | 🐛 394 | 🌐 Java | 📅 2026-08-19 Community License Agreement Version 1.0]
 
 \== Security / ACL
 
