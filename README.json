@@ -1,7 +1,254 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "== Clients\n== CLI / Tools\n== Configuration\n== Examples\n== Infrastructure\n== Kafka Connect\n== Kafka Streams\n== Performance\n== Query/SQL\n== Replication\n== REST API\n== Schema / Data\n== Security / ACL\n== Site Reliability Tools\n== Test\n== UI/Cluster Management\n== Other Awesome Lists about Apache Kafka & Data Engineering\n== License This work is licensed under a http://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike 4.0 International License].",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://kafka.js.org/[kafkajs",
+          "description": "]: A modern Apache Kafka client for node.js https://github.com/tulios/kafkajs/blob/master/LICENSE[MIT License]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98979720,
+            "language": "JavaScript",
+            "last_commit": "2024-08-02T21:32:46Z",
+            "owner": "tulios",
+            "repo": "kafkajs",
+            "stars": 4002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firehose",
+          "description": "Firehose is an extensible, no-code, and cloud-native service to load real-time streaming data from Kafka to data stores, data lakes, and analytical storage systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334098715,
+            "language": "Java",
+            "last_commit": "2024-09-12T09:56:55Z",
+            "owner": "raystack",
+            "repo": "firehose",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://kattlo.github.io/[kattlo",
+          "description": "]: Kattlo gives a way to manage topics, ACLs, users, schemas, ksqlDB, employing a evolutionary configuration. Easy to understand, easy to write and easy to apply. https://github.com/kattlo/kattlo-cli/blob/main/LICENSE[Apache License 2.0]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 323287967,
+            "language": "Java",
+            "last_commit": "2022-01-26T10:06:17Z",
+            "owner": "kattlo",
+            "repo": "kattlo-cli",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/confluentinc/demo-scene/[Confluent",
+          "description": "]: 👾 Scripts and samples to support Confluent Demos and Talks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123581868,
+            "language": "Shell",
+            "last_commit": "2026-08-24T00:50:14Z",
+            "owner": "confluentinc",
+            "repo": "demo-scene",
+            "stars": 1565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://faust.readthedocs.io/en/latest/[Faust",
+          "description": "]: A library for building streaming applications in Python. https://github.com/robinhood/faust/blob/master/LICENSE[BSD License]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84353800,
+            "language": "Python",
+            "last_commit": "2024-07-27T10:27:41Z",
+            "owner": "robinhood",
+            "repo": "faust",
+            "stars": 6824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dagger",
+          "description": "Dagger is an easy-to-use, SQL framework to process built on top of Apache Flink for stateful pro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350432682,
+            "language": "Java",
+            "last_commit": "2023-08-29T09:06:55Z",
+            "owner": "raystack",
+            "repo": "dagger",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://ksqldb.io/[ksqlDB",
+          "description": "]: The event streaming database purpose-built for stream processing applications. https://github.com/confluentinc/ksql/blob/master/LICENSE[Confluent Community License Agreement Version 1.0]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69400326,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:04:01Z",
+            "owner": "confluentinc",
+            "repo": "ksql",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/apache/kafka/tree/trunk/connect/mirror[Mirror",
+          "description": "Maker 2]: MM2 leverages the Connect framework to replicate topics between Kafka clusters. https://github.com/apache/kafka/blob/trunk/LICENSE[Apache License 2.0]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2211243,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:05:10Z",
+            "owner": "apache",
+            "repo": "kafka",
+            "stars": 33606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://karapace.io/[Karapace",
+          "description": "]: Karapace (Aiven) is the open source REST proxy you can run where you need it; drop-in replacement for Confluent REST Proxy. https://github.com/aiven/karapace/blob/master/LICENSE[Apache License 2.0]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164508278,
+            "language": "Python",
+            "last_commit": "2026-08-21T11:52:59Z",
+            "owner": "Aiven-Open",
+            "repo": "karapace",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://karapace.io/[Karapace",
+          "description": "]: Karapace (Aiven) is the open source schema registry you can run on your own platforms. Alternative (compatible replacement) for Confluent Schema Registry, supports Avro and JSON Schema. [https://github.com/aiven/karapace/blob/master/LICENSE[Apache License 2.0]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164508278,
+            "language": "Python",
+            "last_commit": "2026-08-21T11:52:59Z",
+            "owner": "Aiven-Open",
+            "repo": "karapace",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stencil",
+          "description": "Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170960159,
+            "language": "Go",
+            "last_commit": "2026-04-21T21:25:55Z",
+            "owner": "raystack",
+            "repo": "stencil",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://javro.github.io/[Javro",
+          "description": "]: Javro is an interface allowing you to write Avro schemas with ease, to validate it, and to preview it into JSON format with samples. https://github.com/javro/javro/blob/master/LICENSE[Gpl 3.0]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263694229,
+            "language": "TypeScript",
+            "last_commit": "2022-11-14T19:32:53Z",
+            "owner": "javro",
+            "repo": "javro",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://www.testcontainers.org/modules/kafka/[Test",
+          "description": "Container for Apache Kafka]: Testcontainers can be used to automatically instantiate and manage Apache Kafka containers.More precisely Testcontainers uses the official Docker images for Confluent OSS Platform. https://github.com/testcontainers/testcontainers-java/blob/master/LICENSE[MIT License]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33816473,
+            "language": "Java",
+            "last_commit": "2026-08-23T12:26:45Z",
+            "owner": "testcontainers",
+            "repo": "testcontainers-java",
+            "stars": 8714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://www.kafka-eagle.org/[Kafka",
+          "description": "Eagle]: A easy and high-performance monitoring system, as well as offsets or metadata and other kafka information. https://github.com/smartloli/kafka-eagle/blob/master/LICENSE[Apache License 2.0]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80907025,
+            "language": "Java",
+            "last_commit": "2025-12-18T15:35:57Z",
+            "owner": "smartloli",
+            "repo": "EFAK",
+            "stars": 3179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://kafkawize.com/[Kafkawize",
+          "description": "]: Kafkawize : A Self service Apache Kafka Topic Management tool/portal.A Web application which automates the process of creating and browsing Kafka topics, acls, schemas by introducing roles/authorizations to users of various teams of an org. https://github.com/muralibasani/kafkawize/blob/master/LICENSE[Apache License 2.0]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159974830,
+            "language": "HTML",
+            "last_commit": "2023-07-07T21:55:01Z",
+            "owner": "muralibasani",
+            "repo": "kafkawize",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/gunnarmorling/awesome-opensource-data-engineering/[Awesome",
+          "description": "Open-Source Data Engineering]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239865516,
+            "language": null,
+            "last_commit": "2024-10-04T11:45:10Z",
+            "owner": "gunnarmorling",
+            "repo": "awesome-opensource-data-engineering",
+            "stars": 3269
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T13:10:29.233Z",
+    "last_updated": "2026-08-24T14:39:31.615Z",
     "original_repository": "streamthoughts/awesome-opensource-contribs-kafka",
     "original_repository_id": 241838300,
     "original_repository_sha": "02dcc7d50947fc84a224f2580d1fffd47f77ca87",
