@@ -57,7 +57,7 @@
             "archived": false,
             "id": 123581868,
             "language": "Shell",
-            "last_commit": "2026-08-24T21:47:21Z",
+            "last_commit": "2026-08-25T14:22:36Z",
             "owner": "confluentinc",
             "repo": "demo-scene",
             "stars": 1565
@@ -75,7 +75,7 @@
             "last_commit": "2024-07-27T10:27:41Z",
             "owner": "robinhood",
             "repo": "faust",
-            "stars": 6824
+            "stars": 6825
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 69400326,
             "language": "Java",
-            "last_commit": "2026-08-25T11:21:49Z",
+            "last_commit": "2026-08-26T12:54:27Z",
             "owner": "confluentinc",
             "repo": "ksql",
             "stars": 315
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 2211243,
             "language": "Java",
-            "last_commit": "2026-08-25T13:06:00Z",
+            "last_commit": "2026-08-26T12:27:24Z",
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33610
+            "stars": 33628
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-21T11:52:59Z",
             "owner": "Aiven-Open",
             "repo": "karapace",
-            "stars": 632
+            "stars": 631
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-21T11:52:59Z",
             "owner": "Aiven-Open",
             "repo": "karapace",
-            "stars": 632
+            "stars": 631
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 33816473,
             "language": "Java",
-            "last_commit": "2026-08-24T20:58:03Z",
+            "last_commit": "2026-08-26T10:50:32Z",
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8718
+            "stars": 8720
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-10-04T11:45:10Z",
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3269
+            "stars": 3271
           }
         }
       ],
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:08:57.998Z",
+    "last_updated": "2026-08-26T13:13:32.102Z",
     "original_repository": "streamthoughts/awesome-opensource-contribs-kafka",
     "original_repository_id": 241838300,
     "original_repository_sha": "02dcc7d50947fc84a224f2580d1fffd47f77ca87",
