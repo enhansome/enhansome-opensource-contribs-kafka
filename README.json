@@ -15,7 +15,7 @@
             "last_commit": "2024-08-02T21:32:46Z",
             "owner": "tulios",
             "repo": "kafkajs",
-            "stars": 4002
+            "stars": 4003
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 123581868,
             "language": "Shell",
-            "last_commit": "2026-08-25T14:22:36Z",
+            "last_commit": "2026-08-27T09:45:43Z",
             "owner": "confluentinc",
             "repo": "demo-scene",
             "stars": 1565
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 69400326,
             "language": "Java",
-            "last_commit": "2026-08-26T12:54:27Z",
+            "last_commit": "2026-08-27T10:29:08Z",
             "owner": "confluentinc",
             "repo": "ksql",
             "stars": 315
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 2211243,
             "language": "Java",
-            "last_commit": "2026-08-26T12:27:24Z",
+            "last_commit": "2026-08-27T09:34:30Z",
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33628
+            "stars": 33633
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 33816473,
             "language": "Java",
-            "last_commit": "2026-08-26T10:50:32Z",
+            "last_commit": "2026-08-26T20:55:52Z",
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8720
+            "stars": 8721
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-10-04T11:45:10Z",
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3271
+            "stars": 3272
           }
         }
       ],
@@ -248,9 +248,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:13:32.102Z",
-    "original_repository": "streamthoughts/awesome-opensource-contribs-kafka",
-    "original_repository_id": 241838300,
+    "last_updated": "2026-08-27T11:54:16.257Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 241838300,
+      "language": null,
+      "last_commit": "2023-07-10T15:29:07Z",
+      "owner": "streamthoughts",
+      "repo": "awesome-opensource-contribs-kafka",
+      "stars": 111
+    },
     "original_repository_sha": "02dcc7d50947fc84a224f2580d1fffd47f77ca87",
     "enhanced_repository": "enhansome/enhansome-opensource-contribs-kafka",
     "enhanced_repository_description": null,
