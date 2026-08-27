@@ -102,7 +102,7 @@
             "archived": false,
             "id": 69400326,
             "language": "Java",
-            "last_commit": "2026-08-27T10:29:08Z",
+            "last_commit": "2026-08-27T21:57:37Z",
             "owner": "confluentinc",
             "repo": "ksql",
             "stars": 315
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 2211243,
             "language": "Java",
-            "last_commit": "2026-08-27T09:34:30Z",
+            "last_commit": "2026-08-27T16:33:18Z",
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33633
+            "stars": 33636
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-21T11:52:59Z",
             "owner": "Aiven-Open",
             "repo": "karapace",
-            "stars": 631
+            "stars": 632
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-21T11:52:59Z",
             "owner": "Aiven-Open",
             "repo": "karapace",
-            "stars": 631
+            "stars": 632
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 33816473,
             "language": "Java",
-            "last_commit": "2026-08-26T20:55:52Z",
+            "last_commit": "2026-08-27T19:30:27Z",
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8721
+            "stars": 8723
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:16.257Z",
+    "last_updated": "2026-08-27T22:13:27.093Z",
     "original_repository_info": {
       "archived": false,
       "id": 241838300,
