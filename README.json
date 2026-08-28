@@ -15,8 +15,9 @@
             "last_commit": "2024-08-02T21:32:46Z",
             "owner": "tulios",
             "repo": "kafkajs",
-            "stars": 4003
-          }
+            "stars": 4004
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "raystack",
             "repo": "firehose",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "kattlo",
             "repo": "kattlo-cli",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 123581868,
             "language": "Shell",
-            "last_commit": "2026-08-27T09:45:43Z",
+            "last_commit": "2026-08-27T22:39:07Z",
             "owner": "confluentinc",
             "repo": "demo-scene",
             "stars": 1565
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "robinhood",
             "repo": "faust",
             "stars": 6825
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "raystack",
             "repo": "dagger",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 69400326,
             "language": "Java",
-            "last_commit": "2026-08-27T21:57:37Z",
+            "last_commit": "2026-08-28T21:02:51Z",
             "owner": "confluentinc",
             "repo": "ksql",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 2211243,
             "language": "Java",
-            "last_commit": "2026-08-27T16:33:18Z",
+            "last_commit": "2026-08-28T17:59:20Z",
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33636
-          }
+            "stars": 33639
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Aiven-Open",
             "repo": "karapace",
             "stars": 632
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Aiven-Open",
             "repo": "karapace",
             "stars": 632
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "raystack",
             "repo": "stencil",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "javro",
             "repo": "javro",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -192,11 +204,12 @@
             "archived": false,
             "id": 33816473,
             "language": "Java",
-            "last_commit": "2026-08-27T19:30:27Z",
+            "last_commit": "2026-08-27T22:26:01Z",
             "owner": "testcontainers",
             "repo": "testcontainers-java",
             "stars": 8723
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "smartloli",
             "repo": "EFAK",
             "stars": 3179
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "muralibasani",
             "repo": "kafkawize",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         },
         {
           "node_type": "item",
@@ -240,15 +255,16 @@
             "last_commit": "2024-10-04T11:45:10Z",
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3272
-          }
+            "stars": 3273
+          },
+          "first_seen": "2026-08-28T22:15:23.978Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:13:27.093Z",
+    "last_updated": "2026-08-28T22:15:23.978Z",
     "original_repository_info": {
       "archived": false,
       "id": 241838300,
