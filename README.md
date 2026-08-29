@@ -14,7 +14,7 @@ toc::\[]
 
 \== Change Data Capture
 
-* <https://github.com/debezium/debezium[Debezium>]: Debezium is an open source project that provides a low latency data streaming platform for change data capture (CDC). <https://github.com/debezium/debezium/blob/master/LICENSE.txt[Apache> ⭐ 13,054 | 🐛 102 | 🌐 Java | 📅 2026-08-28 License 2.0]
+* <https://github.com/debezium/debezium[Debezium>]: Debezium is an open source project that provides a low latency data streaming platform for change data capture (CDC). <https://github.com/debezium/debezium/blob/master/LICENSE.txt[Apache> ⭐ 13,055 | 🐛 102 | 🌐 Java | 📅 2026-08-28 License 2.0]
 * <https://github.com/zendesk/maxwell[Maxwell>]: Maxwell's daemon, a mysql-to-json kafka producer. <https://github.com/zendesk/maxwell/blob/master/LICENSE[Apache> ⭐ 4,258 | 🐛 266 | 🌐 Java | 📅 2026-08-13 License 2.0]
 
 \== Clients
@@ -46,7 +46,7 @@ toc::\[]
 
 * <https://github.com/confluentinc/demo-scene/[Confluent> ⭐ 1,567 | 🐛 67 | 🌐 Shell | 📅 2026-08-27 `demo-scene`]: 👾 Scripts and samples to support Confluent Demos and Talks.
 * <https://github.com/confluentinc/kafka-streams-examples[Confluent> Kafka Streams Examples]: Demo applications and code examples for Apache Kafka's Streams API. <https://github.com/confluentinc/kafka-streams-examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 176 | 🐛 16 | 🌐 Java | 📅 2026-08-29 License 2.0]
-* <https://github.com/confluentinc/examples[Confluent> Examples]: Apache Kafka and Confluent examples and demos. <https://github.com/confluentinc/examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 2,064 | 🐛 110 | 🌐 Java | 📅 2026-08-25 License 2.0]
+* <https://github.com/confluentinc/examples[Confluent> Examples]: Apache Kafka and Confluent examples and demos. <https://github.com/confluentinc/examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 2,065 | 🐛 110 | 🌐 Java | 📅 2026-08-25 License 2.0]
 * <https://github.com/gwenshap/kafka-examples[kafka-examples>]: Snippets and small examples demonstrating kafka features and configs. <https://github.com/gwenshap/kafka-examples/blob/master/LICENSE[Apache> ⭐ 647 | 🐛 14 | 🌐 Java | 📅 2022-07-01 License 2.0]
 
 \== Infrastructure
@@ -81,7 +81,7 @@ toc::\[]
 
 \== Replication
 
-* <https://github.com/apache/kafka/tree/trunk/connect/mirror[Mirror> ⭐ 33,638 | 🐛 516 | 🌐 Java | 📅 2026-08-29 Maker 2]: MM2 leverages the Connect framework to replicate topics between Kafka clusters. <https://github.com/apache/kafka/blob/trunk/LICENSE[Apache> ⭐ 33,638 | 🐛 516 | 🌐 Java | 📅 2026-08-29 License 2.0]
+* <https://github.com/apache/kafka/tree/trunk/connect/mirror[Mirror> ⭐ 33,640 | 🐛 525 | 🌐 Java | 📅 2026-08-29 Maker 2]: MM2 leverages the Connect framework to replicate topics between Kafka clusters. <https://github.com/apache/kafka/blob/trunk/LICENSE[Apache> ⭐ 33,640 | 🐛 525 | 🌐 Java | 📅 2026-08-29 License 2.0]
 * <https://github.com/uber/uReplicator[Uber> uReplicator]: Improvement of Apache Kafka Mirrormaker. <https://github.com/uber/uReplicator/blob/master/LICENSE[Apache> ⭐ 936 | 🐛 78 | 🌐 Java | 📅 2023-12-16 License 2.0]
 
 \== REST API
@@ -117,7 +117,7 @@ toc::\[]
 
 \== Test
 
-* <https://www.testcontainers.org/modules/kafka/[Test> Container for Apache Kafka]: Testcontainers can be used to automatically instantiate and manage Apache Kafka containers.More precisely Testcontainers uses the official Docker images for Confluent OSS Platform. <https://github.com/testcontainers/testcontainers-java/blob/master/LICENSE[MIT> ⭐ 8,723 | 🐛 629 | 🌐 Java | 📅 2026-08-27 License]
+* <https://www.testcontainers.org/modules/kafka/[Test> Container for Apache Kafka]: Testcontainers can be used to automatically instantiate and manage Apache Kafka containers.More precisely Testcontainers uses the official Docker images for Confluent OSS Platform. <https://github.com/testcontainers/testcontainers-java/blob/master/LICENSE[MIT> ⭐ 8,724 | 🐛 629 | 🌐 Java | 📅 2026-08-27 License]
 * <https://github.com/salesforce/kafka-junit[Kafka> Junit]: This library wraps Kafka's embedded test cluster, allowing you to more easily create and run integration tests using JUnit against a "real" kafka server running within the context of your tests.No need to stand up an external kafka cluster! <https://github.com/salesforce/kafka-junit/blob/master/LICENSE.txt[BSD> ⭐ 173 | 🐛 43 | 🌐 Java | 📅 2026-06-02 3-Clause "New" or "Revised" License]
 * <https://kafka.apache.org/24/documentation/streams/developer-guide/testing.html[kafka-streams-test-utils>]: Testing Kafka Streams.Apache License 2.0
 * <https://github.com/jpzk/mockedstreams[Mocked> Streams]: Scala DSL for Unit-Testing Processing Topologies in Kafka Streams. <https://github.com/jpzk/mockedstreams/blob/master/LICENSE[Apache> ⭐ 186 | 🐛 7 | 🌐 Scala | 📅 2021-01-16 License 2.0]
