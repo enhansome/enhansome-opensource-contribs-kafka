@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern Apache Kafka client for node.js",
+            "homepage": "https://kafka.js.org",
             "id": 98979720,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-02T21:32:46Z",
+            "open_issues": 417,
             "owner": "tulios",
             "repo": "kafkajs",
-            "stars": 4004
+            "stars": 4004,
+            "topics": [
+              "kafka",
+              "kafka-client",
+              "nodejs",
+              "npm-package"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -26,12 +36,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firehose is an extensible, no-code, and cloud-native service to load real-time streaming data from Kafka to data stores, data lakes, and analytical storage systems.",
+            "homepage": "https://raystack.github.io/firehose/",
             "id": 334098715,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-12T09:56:55Z",
+            "open_issues": 11,
             "owner": "raystack",
             "repo": "firehose",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "apache-kafka",
+              "bigquery",
+              "dataops",
+              "firehose",
+              "influxdb",
+              "kafka",
+              "postgresql",
+              "prometheus",
+              "sink",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -42,12 +68,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Kattlo CLI Project",
+            "homepage": "https://kattlo.github.io",
             "id": 323287967,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-26T10:06:17Z",
+            "open_issues": 5,
             "owner": "kattlo",
             "repo": "kattlo-cli",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "acls",
+              "apache-kafka",
+              "graalvm",
+              "java",
+              "kafka",
+              "kafka-configurations",
+              "kafka-connect",
+              "kafka-consumer",
+              "kafka-producer",
+              "kafka-streams",
+              "kattlo",
+              "ksqldb",
+              "migration-tool",
+              "mtls",
+              "native",
+              "quarkus",
+              "schemas"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -58,12 +107,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluentinc/tutorials/",
+            "homepage": "https://developer.confluent.io",
             "id": 123581868,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:39:07Z",
+            "open_issues": 67,
             "owner": "confluentinc",
             "repo": "demo-scene",
-            "stars": 1565
+            "stars": 1567,
+            "topics": [
+              "debezium",
+              "demo",
+              "elasticsearch",
+              "kafka",
+              "kafka-connect",
+              "kafka-streams",
+              "ksql",
+              "ksqldb",
+              "mysql",
+              "syslog"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -74,12 +139,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Stream Processing",
+            "homepage": null,
             "id": 84353800,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-27T10:27:41Z",
+            "open_issues": 279,
             "owner": "robinhood",
             "repo": "faust",
-            "stars": 6825
+            "stars": 6825,
+            "topics": [
+              "asyncio",
+              "distributed-systems",
+              "kafka",
+              "kafka-streams",
+              "python",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -90,12 +167,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dagger is an easy-to-use, configuration over code, cloud-native framework built on top of Apache Flink for stateful processing of real-time streaming data. ",
+            "homepage": "https://raystack.github.io/dagger/",
             "id": 350432682,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T09:06:55Z",
+            "open_issues": 22,
             "owner": "raystack",
             "repo": "dagger",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "apache-flink",
+              "apache-kafka",
+              "dataops",
+              "framework",
+              "influxdb",
+              "prometheus",
+              "real-time-analytics",
+              "real-time-processing",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -106,12 +198,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The database purpose-built for stream processing applications.",
+            "homepage": "https://ksqldb.io",
             "id": 69400326,
             "language": "Java",
-            "last_commit": "2026-08-28T21:02:51Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:54:19Z",
+            "open_issues": 1326,
             "owner": "confluentinc",
             "repo": "ksql",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "event-streaming-database",
+              "interactive",
+              "kafka",
+              "kafka-connect",
+              "ksqldb",
+              "ksqldb-documentation",
+              "ksqldb-tutorials",
+              "materialized-views",
+              "real-time",
+              "sql",
+              "stream-processing",
+              "streaming-queries"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -122,12 +232,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Kafka - A distributed event streaming platform",
+            "homepage": "https://kafka.apache.org/",
             "id": 2211243,
             "language": "Java",
-            "last_commit": "2026-08-28T17:59:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:28:18Z",
+            "open_issues": 516,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33639
+            "stars": 33638,
+            "topics": [
+              "java",
+              "kafka",
+              "scala",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -138,12 +258,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karapace - Your Apache Kafka® essentials in one tool",
+            "homepage": "https://karapace.io",
             "id": 164508278,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T11:52:59Z",
+            "open_issues": 93,
             "owner": "Aiven-Open",
             "repo": "karapace",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "kafka",
+              "rest-proxy",
+              "schema-registry"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -154,12 +283,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karapace - Your Apache Kafka® essentials in one tool",
+            "homepage": "https://karapace.io",
             "id": 164508278,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T11:52:59Z",
+            "open_issues": 93,
             "owner": "Aiven-Open",
             "repo": "karapace",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "kafka",
+              "rest-proxy",
+              "schema-registry"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -170,12 +308,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stencil is a schema registry that provides schema management and validation dynamically, efficiently, and reliably to ensure data compatibility across applications.",
+            "homepage": "https://raystack.github.io/stencil/",
             "id": 170960159,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-21T21:25:55Z",
+            "open_issues": 17,
             "owner": "raystack",
             "repo": "stencil",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "cli",
+              "clojure",
+              "clojure-library",
+              "dataops",
+              "descriptor",
+              "golang",
+              "javascript",
+              "javascript-library",
+              "js",
+              "protobuf",
+              "protocol-buffers",
+              "protocol-buffers-library",
+              "protocol-buffers-parsing",
+              "schema-registry",
+              "schema-validation"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -186,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javro is an interface allowing you to write Avro schemas with ease, to validate it, and to preview it into JSON format with samples.",
+            "homepage": "https://javro.github.io",
             "id": 263694229,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-11-14T19:32:53Z",
+            "open_issues": 3,
             "owner": "javro",
             "repo": "javro",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -202,12 +366,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+            "homepage": "https://testcontainers.org",
             "id": 33816473,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:26:01Z",
+            "open_issues": 629,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8723
+            "stars": 8723,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "hacktoberfest",
+              "integration-testing",
+              "java",
+              "junit",
+              "jvm",
+              "test-automation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -218,12 +397,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A AI-Driven, Distributed and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.",
+            "homepage": "https://www.kafka-eagle.org/",
             "id": 80907025,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-18T15:35:57Z",
+            "open_issues": 224,
             "owner": "smartloli",
             "repo": "EFAK",
-            "stars": 3179
+            "stars": 3179,
+            "topics": [
+              "ai",
+              "consumer-group",
+              "kafka",
+              "kafka-eagle",
+              "offsets"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -234,12 +424,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECATED - Kafkawize : A Self service Apache Kafka Topic Management tool/portal. A Web application which automates the process of creating and browsing Kafka topics, acls, schemas by introducing  roles/authorizations to users of various teams of an org.",
+            "homepage": "https://www.kafkawize.io",
             "id": 159974830,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-07T21:55:01Z",
+            "open_issues": 2,
             "owner": "muralibasani",
             "repo": "kafkawize",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "acls",
+              "automation",
+              "kafka",
+              "kafka-topic-management",
+              "management",
+              "schemas",
+              "selfservice",
+              "tool",
+              "topic",
+              "topics"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         },
@@ -250,12 +456,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Awesome List of Open-Source Data Engineering Projects",
+            "homepage": null,
             "id": 239865516,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-10-04T11:45:10Z",
+            "open_issues": 25,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3273
+            "stars": 3273,
+            "topics": [
+              "awesome-list",
+              "data-engineering"
+            ]
           },
           "first_seen": "2026-08-28T22:15:23.978Z"
         }
@@ -264,15 +478,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:15:23.978Z",
+    "last_updated": "2026-08-29T04:56:38.807Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of all awesome open-source contributions for the Apache Kafka project",
+      "homepage": null,
       "id": 241838300,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2023-07-10T15:29:07Z",
+      "open_issues": 0,
       "owner": "streamthoughts",
       "repo": "awesome-opensource-contribs-kafka",
-      "stars": 111
+      "stars": 111,
+      "topics": [
+        "apache-kafka",
+        "awesome-list",
+        "kafkastreams",
+        "open-source"
+      ]
     },
     "original_repository_sha": "02dcc7d50947fc84a224f2580d1fffd47f77ca87",
     "enhanced_repository": "enhansome/enhansome-opensource-contribs-kafka",
