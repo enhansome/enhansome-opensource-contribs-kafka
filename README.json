@@ -148,7 +148,7 @@
             "open_issues": 280,
             "owner": "robinhood",
             "repo": "faust",
-            "stars": 6826,
+            "stars": 6825,
             "topics": [
               "asyncio",
               "distributed-systems",
@@ -203,7 +203,7 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T16:11:39Z",
+            "last_commit": "2026-08-31T18:05:36Z",
             "open_issues": 1326,
             "owner": "confluentinc",
             "repo": "ksql",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:28:18Z",
-            "open_issues": 527,
+            "last_commit": "2026-08-31T18:34:55Z",
+            "open_issues": 528,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33644,
+            "stars": 33648,
             "topics": [
               "java",
               "kafka",
@@ -372,10 +372,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-27T22:26:01Z",
-            "open_issues": 629,
+            "open_issues": 631,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8725,
+            "stars": 8726,
             "topics": [
               "docker",
               "docker-compose",
@@ -465,7 +465,7 @@
             "open_issues": 25,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3272,
+            "stars": 3275,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:37:55.463Z",
+    "last_updated": "2026-08-31T19:07:05.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
