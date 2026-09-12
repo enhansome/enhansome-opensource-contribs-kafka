@@ -203,8 +203,8 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T16:15:50Z",
-            "open_issues": 1328,
+            "last_commit": "2026-09-12T15:24:13Z",
+            "open_issues": 1327,
             "owner": "confluentinc",
             "repo": "ksql",
             "stars": 315,
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T15:58:30Z",
+            "last_commit": "2026-09-12T07:02:37Z",
             "open_issues": 546,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33705,
+            "stars": 33708,
             "topics": [
               "java",
               "kafka",
@@ -372,7 +372,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-09T14:36:55Z",
-            "open_issues": 624,
+            "open_issues": 626,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
             "stars": 8735,
@@ -401,8 +401,8 @@
             "homepage": "https://www.kafka-eagle.org/",
             "id": 80907025,
             "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2025-12-18T15:35:57Z",
+            "license": null,
+            "last_commit": "2026-09-12T13:32:25Z",
             "open_issues": 224,
             "owner": "smartloli",
             "repo": "EFAK",
@@ -465,7 +465,7 @@
             "open_issues": 26,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3286,
+            "stars": 3289,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:24:56.481Z",
+    "last_updated": "2026-09-12T15:28:39.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
