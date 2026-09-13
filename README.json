@@ -203,7 +203,7 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T15:24:13Z",
+            "last_commit": "2026-09-13T15:38:18Z",
             "open_issues": 1327,
             "owner": "confluentinc",
             "repo": "ksql",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T07:02:37Z",
-            "open_issues": 546,
+            "last_commit": "2026-09-13T15:25:35Z",
+            "open_issues": 551,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33708,
+            "stars": 33715,
             "topics": [
               "java",
               "kafka",
@@ -317,7 +317,7 @@
             "open_issues": 17,
             "owner": "raystack",
             "repo": "stencil",
-            "stars": 238,
+            "stars": 237,
             "topics": [
               "cli",
               "clojure",
@@ -465,7 +465,7 @@
             "open_issues": 26,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3289,
+            "stars": 3290,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:28:39.070Z",
+    "last_updated": "2026-09-13T16:12:48.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
