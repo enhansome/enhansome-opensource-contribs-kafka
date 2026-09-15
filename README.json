@@ -19,7 +19,7 @@
             "open_issues": 418,
             "owner": "tulios",
             "repo": "kafkajs",
-            "stars": 4006,
+            "stars": 4005,
             "topics": [
               "kafka",
               "kafka-client",
@@ -203,7 +203,7 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T16:59:51Z",
+            "last_commit": "2026-09-15T16:50:58Z",
             "open_issues": 1327,
             "owner": "confluentinc",
             "repo": "ksql",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T16:43:38Z",
-            "open_issues": 554,
+            "last_commit": "2026-09-15T16:38:11Z",
+            "open_issues": 562,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33725,
+            "stars": 33731,
             "topics": [
               "java",
               "kafka",
@@ -263,7 +263,7 @@
             "id": 164508278,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T07:33:48Z",
+            "last_commit": "2026-09-15T12:04:33Z",
             "open_issues": 94,
             "owner": "Aiven-Open",
             "repo": "karapace",
@@ -288,7 +288,7 @@
             "id": 164508278,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T07:33:48Z",
+            "last_commit": "2026-09-15T12:04:33Z",
             "open_issues": 94,
             "owner": "Aiven-Open",
             "repo": "karapace",
@@ -371,11 +371,11 @@
             "id": 33816473,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:36:55Z",
-            "open_issues": 629,
+            "last_commit": "2026-09-14T22:30:22Z",
+            "open_issues": 607,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8735,
+            "stars": 8736,
             "topics": [
               "docker",
               "docker-compose",
@@ -406,7 +406,7 @@
             "open_issues": 224,
             "owner": "smartloli",
             "repo": "EFAK",
-            "stars": 3180,
+            "stars": 3181,
             "topics": [
               "ai",
               "consumer-group",
@@ -465,7 +465,7 @@
             "open_issues": 26,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3291,
+            "stars": 3292,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:03:54.451Z",
+    "last_updated": "2026-09-15T16:54:26.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
