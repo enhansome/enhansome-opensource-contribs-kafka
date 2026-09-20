@@ -14,17 +14,17 @@ toc::\[]
 
 \== Change Data Capture
 
-* <https://github.com/debezium/debezium[Debezium>]: Debezium is an open source project that provides a low latency data streaming platform for change data capture (CDC). <https://github.com/debezium/debezium/blob/master/LICENSE.txt[Apache> ⭐ 13,137 | 🐛 130 | 🌐 Java | 📅 2026-09-18 License 2.0]
+* <https://github.com/debezium/debezium[Debezium>]: Debezium is an open source project that provides a low latency data streaming platform for change data capture (CDC). <https://github.com/debezium/debezium/blob/master/LICENSE.txt[Apache> ⭐ 13,138 | 🐛 132 | 🌐 Java | 📅 2026-09-18 License 2.0]
 * <https://github.com/zendesk/maxwell[Maxwell>]: Maxwell's daemon, a mysql-to-json kafka producer. <https://github.com/zendesk/maxwell/blob/master/LICENSE[Apache> ⭐ 4,261 | 🐛 267 | 🌐 Java | 📅 2026-09-19 License 2.0]
 
 \== Clients
 
 * <https://kafka.js.org/[kafkajs>]: A modern Apache Kafka client for node.js <https://github.com/tulios/kafkajs/blob/master/LICENSE[MIT> ⭐ 4,005 | 🐛 419 | 🌐 JavaScript | 📅 2024-08-02 License]
 * <https://github.com/streamthoughts/kafka-clients-kotlin[kafka-clients-kotlin>]: This projects gives Kotlin bindings and several extensions for Apache Kafka Clients.
-* <https://github.com/kafka-rust/kafka-rust[Kafka> Rust]: Rust client for Apache Kafka. <https://github.com/kafka-rust/kafka-rust/blob/master/LICENCE[MIT> ⭐ 1,451 | 🐛 54 | 🌐 Rust | 📅 2026-07-02 License]
+* <https://github.com/kafka-rust/kafka-rust[Kafka> Rust]: Rust client for Apache Kafka. <https://github.com/kafka-rust/kafka-rust/blob/master/LICENCE[MIT> ⭐ 1,453 | 🐛 54 | 🌐 Rust | 📅 2026-07-02 License]
 * <https://github.com/edenhill/librdkafka[librdkafka>]: The Apache Kafka C/C++ library. 2-clause BSD license
-* <https://github.com/Shopify/sarama[Sarama>]: Sarama is a Go library for Apache Kafka 0.8, and up. <https://github.com/Shopify/sarama/blob/master/LICENSE[MIT> ⭐ 12,520 | 🐛 47 | 🌐 Go | 📅 2026-09-18 License]
-* <https://github.com/twmb/franz-go[franz-go>] Franz-go is a feature complete client written in native Go. <https://github.com/twmb/franz-go/blob/master/LICENSE[BSD> ⭐ 3,064 | 🐛 1 | 🌐 Go | 📅 2026-09-18 3-Clause License]
+* <https://github.com/Shopify/sarama[Sarama>]: Sarama is a Go library for Apache Kafka 0.8, and up. <https://github.com/Shopify/sarama/blob/master/LICENSE[MIT> ⭐ 12,520 | 🐛 48 | 🌐 Go | 📅 2026-09-20 License]
+* <https://github.com/twmb/franz-go[franz-go>] Franz-go is a feature complete client written in native Go. <https://github.com/twmb/franz-go/blob/master/LICENSE[BSD> ⭐ 3,062 | 🐛 1 | 🌐 Go | 📅 2026-09-18 3-Clause License]
 
 \== CLI / Tools
 
@@ -45,8 +45,8 @@ toc::\[]
 \== Examples
 
 * <https://github.com/confluentinc/demo-scene/[Confluent> ⭐ 1,568 | 🐛 66 | 🌐 Shell | 📅 2026-09-17 `demo-scene`]: 👾 Scripts and samples to support Confluent Demos and Talks.
-* <https://github.com/confluentinc/kafka-streams-examples[Confluent> Kafka Streams Examples]: Demo applications and code examples for Apache Kafka's Streams API. <https://github.com/confluentinc/kafka-streams-examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 178 | 🐛 19 | 🌐 Java | 📅 2026-09-19 License 2.0]
-* <https://github.com/confluentinc/examples[Confluent> Examples]: Apache Kafka and Confluent examples and demos. <https://github.com/confluentinc/examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 2,066 | 🐛 109 | 🌐 Java | 📅 2026-09-17 License 2.0]
+* <https://github.com/confluentinc/kafka-streams-examples[Confluent> Kafka Streams Examples]: Demo applications and code examples for Apache Kafka's Streams API. <https://github.com/confluentinc/kafka-streams-examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 178 | 🐛 19 | 🌐 Java | 📅 2026-09-20 License 2.0]
+* <https://github.com/confluentinc/examples[Confluent> Examples]: Apache Kafka and Confluent examples and demos. <https://github.com/confluentinc/examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 2,066 | 🐛 109 | 🌐 Java | 📅 2026-09-20 License 2.0]
 * <https://github.com/gwenshap/kafka-examples[kafka-examples>]: Snippets and small examples demonstrating kafka features and configs. <https://github.com/gwenshap/kafka-examples/blob/master/LICENSE[Apache> ⭐ 646 | 🐛 14 | 🌐 Java | 📅 2022-07-01 License 2.0]
 
 \== Infrastructure
@@ -76,28 +76,28 @@ toc::\[]
 
 \== Query/SQL
 
-* <https://ksqldb.io/[ksqlDB>]: The event streaming database purpose-built for stream processing applications. <https://github.com/confluentinc/ksql/blob/master/LICENSE[Confluent> ⭐ 315 | 🐛 1,330 | 🌐 Java | 📅 2026-09-19 Community License Agreement Version 1.0]
+* <https://ksqldb.io/[ksqlDB>]: The event streaming database purpose-built for stream processing applications. <https://github.com/confluentinc/ksql/blob/master/LICENSE[Confluent> ⭐ 315 | 🐛 1,331 | 🌐 Java | 📅 2026-09-20 Community License Agreement Version 1.0]
 * <https://github.com/mmolimar/ksql-jdbc-driver[ksql-jdbc-driver>]: JDBC driver for Apache Kafka. <https://github.com/mmolimar/ksql-jdbc-driver/blob/master/LICENSE[Apache> ⭐ 87 | 🐛 14 | 🌐 Scala | 📅 2022-04-01 License 2.0]
 
 \== Replication
 
-* <https://github.com/apache/kafka/tree/trunk/connect/mirror[Mirror> ⭐ 33,755 | 🐛 577 | 🌐 Java | 📅 2026-09-19 Maker 2]: MM2 leverages the Connect framework to replicate topics between Kafka clusters. <https://github.com/apache/kafka/blob/trunk/LICENSE[Apache> ⭐ 33,755 | 🐛 577 | 🌐 Java | 📅 2026-09-19 License 2.0]
+* <https://github.com/apache/kafka/tree/trunk/connect/mirror[Mirror> ⭐ 33,766 | 🐛 577 | 🌐 Java | 📅 2026-09-20 Maker 2]: MM2 leverages the Connect framework to replicate topics between Kafka clusters. <https://github.com/apache/kafka/blob/trunk/LICENSE[Apache> ⭐ 33,766 | 🐛 577 | 🌐 Java | 📅 2026-09-20 License 2.0]
 * <https://github.com/uber/uReplicator[Uber> uReplicator]: Improvement of Apache Kafka Mirrormaker. <https://github.com/uber/uReplicator/blob/master/LICENSE[Apache> ⭐ 936 | 🐛 79 | 🌐 Java | 📅 2023-12-16 License 2.0]
 
 \== REST API
 
-* <https://karapace.io/[Karapace>]: Karapace (Aiven) is the open source REST proxy you can run where you need it; drop-in replacement for Confluent REST Proxy. <https://github.com/aiven/karapace/blob/master/LICENSE[Apache> ⭐ 634 | 🐛 95 | 🌐 Python | 📅 2026-09-18 License 2.0]
-* <https://github.com/confluentinc/kafka-rest[Kafka> REST Proxy]: Confluent REST Proxy for Kafka. <https://github.com/confluentinc/kafka-rest/blob/master/LICENSE[Confluent> ⭐ 164 | 🐛 277 | 🌐 Java | 📅 2026-09-19 Community License Agreement Version 1.0]
+* <https://karapace.io/[Karapace>]: Karapace (Aiven) is the open source REST proxy you can run where you need it; drop-in replacement for Confluent REST Proxy. <https://github.com/aiven/karapace/blob/master/LICENSE[Apache> ⭐ 635 | 🐛 95 | 🌐 Python | 📅 2026-09-18 License 2.0]
+* <https://github.com/confluentinc/kafka-rest[Kafka> REST Proxy]: Confluent REST Proxy for Kafka. <https://github.com/confluentinc/kafka-rest/blob/master/LICENSE[Confluent> ⭐ 164 | 🐛 277 | 🌐 Java | 📅 2026-09-20 Community License Agreement Version 1.0]
 * <https://github.com/mailgun/kafka-pixy[Kafka> Pixy]: gRPC/REST proxy for Kafka. <https://github.com/mailgun/kafka-pixy/blob/master/LICENSE[Apache> ⭐ 790 | 🐛 17 | 🌐 Go | 📅 2024-04-23 License 2.0]
 * <https://github.com/odpf/raccoon[Raccoon>] - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols and publish to Kafka.
 * <https://github.com/aklivity/zilla[Zilla>] - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
 
 \== Schema / Data
 
-* <https://karapace.io/[Karapace>]: Karapace (Aiven) is the open source schema registry you can run on your own platforms. Alternative (compatible replacement) for Confluent Schema Registry, supports Avro and JSON Schema. \[<https://github.com/aiven/karapace/blob/master/LICENSE[Apache> ⭐ 634 | 🐛 95 | 🌐 Python | 📅 2026-09-18 License 2.0]
+* <https://karapace.io/[Karapace>]: Karapace (Aiven) is the open source schema registry you can run on your own platforms. Alternative (compatible replacement) for Confluent Schema Registry, supports Avro and JSON Schema. \[<https://github.com/aiven/karapace/blob/master/LICENSE[Apache> ⭐ 635 | 🐛 95 | 🌐 Python | 📅 2026-09-18 License 2.0]
 * [Stencil](https://github.com/odpf/stencil) ⭐ 237 | 🐛 17 | 🌐 Go | 📅 2026-04-21 - Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.
 * <https://javro.github.io/[Javro>]: Javro is an interface allowing you to write Avro schemas with ease, to validate it, and to preview it into JSON format with samples. <https://github.com/javro/javro/blob/master/LICENSE[Gpl> ⭐ 68 | 🐛 3 | 🌐 TypeScript | 📅 2022-11-14 3.0]
-* <https://github.com/confluentinc/schema-registry[Confluent> Schema Registry]: Confluent Schema Registry for Kafka. <https://github.com/confluentinc/schema-registry/blob/master/LICENSE[Confluent> ⭐ 2,465 | 🐛 392 | 🌐 Java | 📅 2026-09-19 Community License Agreement Version 1.0]
+* <https://github.com/confluentinc/schema-registry[Confluent> Schema Registry]: Confluent Schema Registry for Kafka. <https://github.com/confluentinc/schema-registry/blob/master/LICENSE[Confluent> ⭐ 2,465 | 🐛 392 | 🌐 Java | 📅 2026-09-20 Community License Agreement Version 1.0]
 
 \== Security / ACL
 
@@ -117,7 +117,7 @@ toc::\[]
 
 \== Test
 
-* <https://www.testcontainers.org/modules/kafka/[Test> Container for Apache Kafka]: Testcontainers can be used to automatically instantiate and manage Apache Kafka containers.More precisely Testcontainers uses the official Docker images for Confluent OSS Platform. <https://github.com/testcontainers/testcontainers-java/blob/master/LICENSE[MIT> ⭐ 8,736 | 🐛 615 | 🌐 Java | 📅 2026-09-18 License]
+* <https://www.testcontainers.org/modules/kafka/[Test> Container for Apache Kafka]: Testcontainers can be used to automatically instantiate and manage Apache Kafka containers.More precisely Testcontainers uses the official Docker images for Confluent OSS Platform. <https://github.com/testcontainers/testcontainers-java/blob/master/LICENSE[MIT> ⭐ 8,739 | 🐛 615 | 🌐 Java | 📅 2026-09-18 License]
 * <https://github.com/salesforce/kafka-junit[Kafka> Junit]: This library wraps Kafka's embedded test cluster, allowing you to more easily create and run integration tests using JUnit against a "real" kafka server running within the context of your tests.No need to stand up an external kafka cluster! <https://github.com/salesforce/kafka-junit/blob/master/LICENSE.txt[BSD> ⭐ 173 | 🐛 43 | 🌐 Java | 📅 2026-06-02 3-Clause "New" or "Revised" License]
 * <https://kafka.apache.org/24/documentation/streams/developer-guide/testing.html[kafka-streams-test-utils>]: Testing Kafka Streams.Apache License 2.0
 * <https://github.com/jpzk/mockedstreams[Mocked> Streams]: Scala DSL for Unit-Testing Processing Topologies in Kafka Streams. <https://github.com/jpzk/mockedstreams/blob/master/LICENSE[Apache> ⭐ 186 | 🐛 7 | 🌐 Scala | 📅 2021-01-16 License 2.0]
@@ -135,7 +135,7 @@ toc::\[]
 
 \== Other Awesome Lists about Apache Kafka & Data Engineering
 
-* <https://github.com/gunnarmorling/awesome-opensource-data-engineering/[Awesome> ⭐ 3,294 | 🐛 26 | 📅 2024-10-04 Open-Source Data Engineering]
+* <https://github.com/gunnarmorling/awesome-opensource-data-engineering/[Awesome> ⭐ 3,295 | 🐛 26 | 📅 2024-10-04 Open-Source Data Engineering]
 * <https://github.com/igorbarinov/awesome-data-engineering[Awesome> Data Engineering]
 * <https://github.com/infoslack/awesome-kafka[infoslack/awesome-kafka>]: This list is for anyone wishing to learn about Apache Kafka, but do not have a starting point.
 * <https://github.com/dharmeshkakadia/awesome-kafka[dharmeshkakadia/awesome-kafka>]: Everything about Apache Kafka
@@ -146,4 +146,4 @@ This work is licensed under a <http://creativecommons.org/licenses/by-sa/4.0/[Cr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
