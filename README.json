@@ -203,7 +203,7 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T17:02:47Z",
+            "last_commit": "2026-09-22T15:52:35Z",
             "open_issues": 1331,
             "owner": "confluentinc",
             "repo": "ksql",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T18:11:39Z",
+            "last_commit": "2026-09-22T15:58:52Z",
             "open_issues": 581,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33773,
+            "stars": 33782,
             "topics": [
               "java",
               "kafka",
@@ -372,10 +372,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-18T10:26:47Z",
-            "open_issues": 615,
+            "open_issues": 616,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8739,
+            "stars": 8741,
             "topics": [
               "docker",
               "docker-compose",
@@ -406,7 +406,7 @@
             "open_issues": 224,
             "owner": "smartloli",
             "repo": "EFAK",
-            "stars": 3182,
+            "stars": 3183,
             "topics": [
               "ai",
               "consumer-group",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:11:52.562Z",
+    "last_updated": "2026-09-22T16:53:34.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",

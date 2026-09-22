@@ -14,7 +14,7 @@ toc::\[]
 
 \== Change Data Capture
 
-* <https://github.com/debezium/debezium[Debezium>]: Debezium is an open source project that provides a low latency data streaming platform for change data capture (CDC). <https://github.com/debezium/debezium/blob/master/LICENSE.txt[Apache> ⭐ 13,139 | 🐛 133 | 🌐 Java | 📅 2026-09-21 License 2.0]
+* <https://github.com/debezium/debezium[Debezium>]: Debezium is an open source project that provides a low latency data streaming platform for change data capture (CDC). <https://github.com/debezium/debezium/blob/master/LICENSE.txt[Apache> ⭐ 13,140 | 🐛 141 | 🌐 Java | 📅 2026-09-22 License 2.0]
 * <https://github.com/zendesk/maxwell[Maxwell>]: Maxwell's daemon, a mysql-to-json kafka producer. <https://github.com/zendesk/maxwell/blob/master/LICENSE[Apache> ⭐ 4,260 | 🐛 267 | 🌐 Java | 📅 2026-09-19 License 2.0]
 
 \== Clients
@@ -23,8 +23,8 @@ toc::\[]
 * <https://github.com/streamthoughts/kafka-clients-kotlin[kafka-clients-kotlin>]: This projects gives Kotlin bindings and several extensions for Apache Kafka Clients.
 * <https://github.com/kafka-rust/kafka-rust[Kafka> Rust]: Rust client for Apache Kafka. <https://github.com/kafka-rust/kafka-rust/blob/master/LICENCE[MIT> ⭐ 1,454 | 🐛 54 | 🌐 Rust | 📅 2026-07-02 License]
 * <https://github.com/edenhill/librdkafka[librdkafka>]: The Apache Kafka C/C++ library. 2-clause BSD license
-* <https://github.com/Shopify/sarama[Sarama>]: Sarama is a Go library for Apache Kafka 0.8, and up. <https://github.com/Shopify/sarama/blob/master/LICENSE[MIT> ⭐ 12,521 | 🐛 33 | 🌐 Go | 📅 2026-09-21 License]
-* <https://github.com/twmb/franz-go[franz-go>] Franz-go is a feature complete client written in native Go. <https://github.com/twmb/franz-go/blob/master/LICENSE[BSD> ⭐ 3,065 | 🐛 1 | 🌐 Go | 📅 2026-09-18 3-Clause License]
+* <https://github.com/Shopify/sarama[Sarama>]: Sarama is a Go library for Apache Kafka 0.8, and up. <https://github.com/Shopify/sarama/blob/master/LICENSE[MIT> ⭐ 12,521 | 🐛 29 | 🌐 Go | 📅 2026-09-22 License]
+* <https://github.com/twmb/franz-go[franz-go>] Franz-go is a feature complete client written in native Go. <https://github.com/twmb/franz-go/blob/master/LICENSE[BSD> ⭐ 3,066 | 🐛 1 | 🌐 Go | 📅 2026-09-18 3-Clause License]
 
 \== CLI / Tools
 
@@ -39,13 +39,13 @@ toc::\[]
 
 * <https://kattlo.github.io/[kattlo>]: Kattlo gives a way to manage topics, ACLs, users, schemas, ksqlDB, employing a evolutionary configuration. Easy to understand, easy to write and easy to apply. <https://github.com/kattlo/kattlo-cli/blob/main/LICENSE[Apache> ⚠️ Archived License 2.0]
 * <https://github.com/devshawn/kafka-gitops[kafka-gitops>]: Manage Apache Kafka topics and generate ACLs through a desired state file. <https://github.com/devshawn/kafka-gitops/blob/master/LICENSE[Apache> ⭐ 341 | 🐛 46 | 🌐 Java | 📅 2023-04-30 License 2.0]
-* <https://github.com/streamthoughts/jikkou[Jikkou>]: Tool to ease and automate Apache Kafka cluster configuration management. <https://github.com/streamthoughts/kafka-specs/blob/master/LICENSE[Apache> ⭐ 307 | 🐛 38 | 🌐 Java | 📅 2026-09-21 License 2.0]
+* <https://github.com/streamthoughts/jikkou[Jikkou>]: Tool to ease and automate Apache Kafka cluster configuration management. <https://github.com/streamthoughts/kafka-specs/blob/master/LICENSE[Apache> ⭐ 307 | 🐛 40 | 🌐 Java | 📅 2026-09-21 License 2.0]
 * <https://github.com/kafka-ops/julie[julie>]: An operational manager for Apache Kafka (Automation, GitOps, SelfService) <https://github.com/kafka-ops/julie/blob/master/LICENSE[MIT> ⭐ 445 | 🐛 82 | 🌐 Java | 📅 2024-06-14 License]
 
 \== Examples
 
 * <https://github.com/confluentinc/demo-scene/[Confluent> ⭐ 1,568 | 🐛 67 | 🌐 Shell | 📅 2026-09-21 `demo-scene`]: 👾 Scripts and samples to support Confluent Demos and Talks.
-* <https://github.com/confluentinc/kafka-streams-examples[Confluent> Kafka Streams Examples]: Demo applications and code examples for Apache Kafka's Streams API. <https://github.com/confluentinc/kafka-streams-examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 178 | 🐛 19 | 🌐 Java | 📅 2026-09-21 License 2.0]
+* <https://github.com/confluentinc/kafka-streams-examples[Confluent> Kafka Streams Examples]: Demo applications and code examples for Apache Kafka's Streams API. <https://github.com/confluentinc/kafka-streams-examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 178 | 🐛 19 | 🌐 Java | 📅 2026-09-22 License 2.0]
 * <https://github.com/confluentinc/examples[Confluent> Examples]: Apache Kafka and Confluent examples and demos. <https://github.com/confluentinc/examples/blob/5.4.0-post/LICENSE[Apache> ⭐ 2,066 | 🐛 109 | 🌐 Java | 📅 2026-09-21 License 2.0]
 * <https://github.com/gwenshap/kafka-examples[kafka-examples>]: Snippets and small examples demonstrating kafka features and configs. <https://github.com/gwenshap/kafka-examples/blob/master/LICENSE[Apache> ⭐ 646 | 🐛 14 | 🌐 Java | 📅 2022-07-01 License 2.0]
 
@@ -65,7 +65,7 @@ toc::\[]
 * <https://faust.readthedocs.io/en/latest/[Faust>]: A library for building streaming applications in Python. <https://github.com/robinhood/faust/blob/master/LICENSE[BSD> ⭐ 6,824 | 🐛 280 | 🌐 Python | 📅 2024-07-27 License]
 * [Dagger](https://github.com/odpf/dagger) ⭐ 280 | 🐛 22 | 🌐 Java | 📅 2023-08-29 - Dagger is an easy-to-use, SQL framework to process built on top of Apache Flink for stateful pro
 * <https://github.com/streamthoughts/azkarra-streams[Azkarra> Streams]: Azkarra Streams is a lightweight Java framework which makes easy to develop and operate Kafka Streams applications. <https://github.com/streamthoughts/azkarra-streams/blob/master/LICENSE[Apache> ⭐ 191 | 🐛 48 | 🌐 HTML | 📅 2025-09-03 License 2.0]
-* <https://github.com/lovoo/goka[GoKa>]: Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go. <https://github.com/lovoo/goka/blob/master/LICENSE[BSD> ⭐ 2,539 | 🐛 39 | 🌐 Go | 📅 2026-09-11 3-Clause "New" or "Revised" License]
+* <https://github.com/lovoo/goka[GoKa>]: Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go. <https://github.com/lovoo/goka/blob/master/LICENSE[BSD> ⭐ 2,540 | 🐛 39 | 🌐 Go | 📅 2026-09-11 3-Clause "New" or "Revised" License]
 * <https://github.com/fhussonnois/kafkastreams-cep[Kafka> Streams CEP]: Complex Event Processing on top of Kafka Streams (<https://github.com/fhussonnois/kafkastreams-cep/blob/master/LICENCE[Apache> ⭐ 315 | 🐛 6 | 🌐 Java | 📅 2023-12-16 License 2.0]
 * <https://github.com/LGouellec/kafka-streams-dotnet[Kafka> Streams .NET]: .NET Stream Processing Library for Apache Kafka
 * <https://github.com/zz85/kafka-streams-viz[Kafka> Streams Viz]: A tool helps visualize stream topologies by generating nice looking diagrams from a kafka stream topology descriptions.
@@ -76,18 +76,18 @@ toc::\[]
 
 \== Query/SQL
 
-* <https://ksqldb.io/[ksqlDB>]: The event streaming database purpose-built for stream processing applications. <https://github.com/confluentinc/ksql/blob/master/LICENSE[Confluent> ⭐ 315 | 🐛 1,331 | 🌐 Java | 📅 2026-09-21 Community License Agreement Version 1.0]
+* <https://ksqldb.io/[ksqlDB>]: The event streaming database purpose-built for stream processing applications. <https://github.com/confluentinc/ksql/blob/master/LICENSE[Confluent> ⭐ 315 | 🐛 1,331 | 🌐 Java | 📅 2026-09-22 Community License Agreement Version 1.0]
 * <https://github.com/mmolimar/ksql-jdbc-driver[ksql-jdbc-driver>]: JDBC driver for Apache Kafka. <https://github.com/mmolimar/ksql-jdbc-driver/blob/master/LICENSE[Apache> ⭐ 87 | 🐛 14 | 🌐 Scala | 📅 2022-04-01 License 2.0]
 
 \== Replication
 
-* <https://github.com/apache/kafka/tree/trunk/connect/mirror[Mirror> ⭐ 33,773 | 🐛 581 | 🌐 Java | 📅 2026-09-21 Maker 2]: MM2 leverages the Connect framework to replicate topics between Kafka clusters. <https://github.com/apache/kafka/blob/trunk/LICENSE[Apache> ⭐ 33,773 | 🐛 581 | 🌐 Java | 📅 2026-09-21 License 2.0]
+* <https://github.com/apache/kafka/tree/trunk/connect/mirror[Mirror> ⭐ 33,782 | 🐛 581 | 🌐 Java | 📅 2026-09-22 Maker 2]: MM2 leverages the Connect framework to replicate topics between Kafka clusters. <https://github.com/apache/kafka/blob/trunk/LICENSE[Apache> ⭐ 33,782 | 🐛 581 | 🌐 Java | 📅 2026-09-22 License 2.0]
 * <https://github.com/uber/uReplicator[Uber> uReplicator]: Improvement of Apache Kafka Mirrormaker. <https://github.com/uber/uReplicator/blob/master/LICENSE[Apache> ⭐ 936 | 🐛 79 | 🌐 Java | 📅 2023-12-16 License 2.0]
 
 \== REST API
 
 * <https://karapace.io/[Karapace>]: Karapace (Aiven) is the open source REST proxy you can run where you need it; drop-in replacement for Confluent REST Proxy. <https://github.com/aiven/karapace/blob/master/LICENSE[Apache> ⭐ 636 | 🐛 95 | 🌐 Python | 📅 2026-09-21 License 2.0]
-* <https://github.com/confluentinc/kafka-rest[Kafka> REST Proxy]: Confluent REST Proxy for Kafka. <https://github.com/confluentinc/kafka-rest/blob/master/LICENSE[Confluent> ⭐ 164 | 🐛 277 | 🌐 Java | 📅 2026-09-21 Community License Agreement Version 1.0]
+* <https://github.com/confluentinc/kafka-rest[Kafka> REST Proxy]: Confluent REST Proxy for Kafka. <https://github.com/confluentinc/kafka-rest/blob/master/LICENSE[Confluent> ⭐ 165 | 🐛 277 | 🌐 Java | 📅 2026-09-22 Community License Agreement Version 1.0]
 * <https://github.com/mailgun/kafka-pixy[Kafka> Pixy]: gRPC/REST proxy for Kafka. <https://github.com/mailgun/kafka-pixy/blob/master/LICENSE[Apache> ⭐ 790 | 🐛 17 | 🌐 Go | 📅 2024-04-23 License 2.0]
 * <https://github.com/odpf/raccoon[Raccoon>] - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols and publish to Kafka.
 * <https://github.com/aklivity/zilla[Zilla>] - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
@@ -97,7 +97,7 @@ toc::\[]
 * <https://karapace.io/[Karapace>]: Karapace (Aiven) is the open source schema registry you can run on your own platforms. Alternative (compatible replacement) for Confluent Schema Registry, supports Avro and JSON Schema. \[<https://github.com/aiven/karapace/blob/master/LICENSE[Apache> ⭐ 636 | 🐛 95 | 🌐 Python | 📅 2026-09-21 License 2.0]
 * [Stencil](https://github.com/odpf/stencil) ⭐ 237 | 🐛 17 | 🌐 Go | 📅 2026-04-21 - Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.
 * <https://javro.github.io/[Javro>]: Javro is an interface allowing you to write Avro schemas with ease, to validate it, and to preview it into JSON format with samples. <https://github.com/javro/javro/blob/master/LICENSE[Gpl> ⭐ 68 | 🐛 3 | 🌐 TypeScript | 📅 2022-11-14 3.0]
-* <https://github.com/confluentinc/schema-registry[Confluent> Schema Registry]: Confluent Schema Registry for Kafka. <https://github.com/confluentinc/schema-registry/blob/master/LICENSE[Confluent> ⭐ 2,465 | 🐛 391 | 🌐 Java | 📅 2026-09-21 Community License Agreement Version 1.0]
+* <https://github.com/confluentinc/schema-registry[Confluent> Schema Registry]: Confluent Schema Registry for Kafka. <https://github.com/confluentinc/schema-registry/blob/master/LICENSE[Confluent> ⭐ 2,465 | 🐛 392 | 🌐 Java | 📅 2026-09-22 Community License Agreement Version 1.0]
 
 \== Security / ACL
 
@@ -106,32 +106,32 @@ toc::\[]
 
 \== Site Reliability Tools
 
-* <https://github.com/linkedin/Burrow[Burrow(Linkedin)>]: Kafka Consumer Lag Checking. <https://github.com/linkedin/Burrow/blob/master/LICENSE[Apache> ⭐ 3,962 | 🐛 250 | 🌐 Go | 📅 2026-08-21 License 2.0]
+* <https://github.com/linkedin/Burrow[Burrow(Linkedin)>]: Kafka Consumer Lag Checking. <https://github.com/linkedin/Burrow/blob/master/LICENSE[Apache> ⭐ 3,963 | 🐛 250 | 🌐 Go | 📅 2026-08-21 License 2.0]
 * <https://github.com/uber/chaperone[Chaperone(> Uber)]: As Kafka audit system, Chaperone monitors the completeness and latency of data stream.The audit metrics are persisted in database for Kafka users to quantify the loss of their topics if any. <https://github.com/uber/chaperone/blob/master/LICENSE[Apache> ⚠️ Archived License 2.0]
-* <https://github.com/linkedin/cruise-control[Cruise> Control(Linkedin)]: Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster.It provides great value to Kafka users by simplifying the operation of Kafka clusters. <https://github.com/linkedin/cruise-control/blob/master/LICENSE[BSD> ⭐ 3,045 | 🐛 275 | 🌐 Java | 📅 2026-09-18 2-Clause "Simplified" License]
+* <https://github.com/linkedin/cruise-control[Cruise> Control(Linkedin)]: Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster.It provides great value to Kafka users by simplifying the operation of Kafka clusters. <https://github.com/linkedin/cruise-control/blob/master/LICENSE[BSD> ⭐ 3,045 | 🐛 274 | 🌐 Java | 📅 2026-09-22 2-Clause "Simplified" License]
 * <https://github.com/pinterest/doctorkafka[Doctor> Kafka(Pinterest)]: DoctorKafka is a service for Kafka cluster auto healing and workload balancing. <https://github.com/pinterest/doctorkafka/blob/master/LICENSE[Apache> ⚠️ Archived License 2.0]
 * <https://github.com/DataDog/kafka-kit[kafka-kit> (Datadog)]: Kafka data mapping and recovery tools. <https://github.com/DataDog/kafka-kit/blob/master/LICENSE[Apache> ⭐ 502 | 🐛 57 | 🌐 Go | 📅 2026-09-21 License 2.0]
 * <https://github.com/linkedin/kafka-monitor[Kafka> Monitor(Linkedin)]: Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service availability & message loss rate.It reassigns partition & trigger preferred leader election to ensure each broker acts as leader of at least 1 partition of monitor topic. <https://github.com/linkedin/kafka-monitor/blob/master/LICENSE[Apache> ⭐ 2,065 | 🐛 33 | 🌐 Java | 📅 2025-03-09 License 2.0]
 * <https://github.com/streamthoughts/kafka-monitoring-stack-docker-compose[kafka-monitoring-stack-docker-compose>]: Demonstration on how to monitor Kafka using Prometheus and Grafana. <https://github.com/streamthoughts/kafka-monitoring-stack-docker-compose/blob/master/LICENSE[Apache> ⭐ 150 | 🐛 5 | 🌐 Shell | 📅 2024-03-22 License 2.0]
-* <https://github.com/cloudhut/kminion[KMinion> (CloudHut)]: KMinion is a feature rich Prometheus exporter for consumer lag and cluster monitoring. <https://github.com/cloudhut/kminion/blob/master/LICENSE[MIT> ⭐ 706 | 🐛 49 | 🌐 Go | 📅 2026-09-17 License]
+* <https://github.com/cloudhut/kminion[KMinion> (CloudHut)]: KMinion is a feature rich Prometheus exporter for consumer lag and cluster monitoring. <https://github.com/cloudhut/kminion/blob/master/LICENSE[MIT> ⭐ 707 | 🐛 49 | 🌐 Go | 📅 2026-09-17 License]
 
 \== Test
 
-* <https://www.testcontainers.org/modules/kafka/[Test> Container for Apache Kafka]: Testcontainers can be used to automatically instantiate and manage Apache Kafka containers.More precisely Testcontainers uses the official Docker images for Confluent OSS Platform. <https://github.com/testcontainers/testcontainers-java/blob/master/LICENSE[MIT> ⭐ 8,739 | 🐛 615 | 🌐 Java | 📅 2026-09-18 License]
+* <https://www.testcontainers.org/modules/kafka/[Test> Container for Apache Kafka]: Testcontainers can be used to automatically instantiate and manage Apache Kafka containers.More precisely Testcontainers uses the official Docker images for Confluent OSS Platform. <https://github.com/testcontainers/testcontainers-java/blob/master/LICENSE[MIT> ⭐ 8,741 | 🐛 616 | 🌐 Java | 📅 2026-09-18 License]
 * <https://github.com/salesforce/kafka-junit[Kafka> Junit]: This library wraps Kafka's embedded test cluster, allowing you to more easily create and run integration tests using JUnit against a "real" kafka server running within the context of your tests.No need to stand up an external kafka cluster! <https://github.com/salesforce/kafka-junit/blob/master/LICENSE.txt[BSD> ⭐ 173 | 🐛 43 | 🌐 Java | 📅 2026-06-02 3-Clause "New" or "Revised" License]
 * <https://kafka.apache.org/24/documentation/streams/developer-guide/testing.html[kafka-streams-test-utils>]: Testing Kafka Streams.Apache License 2.0
 * <https://github.com/jpzk/mockedstreams[Mocked> Streams]: Scala DSL for Unit-Testing Processing Topologies in Kafka Streams. <https://github.com/jpzk/mockedstreams/blob/master/LICENSE[Apache> ⭐ 186 | 🐛 7 | 🌐 Scala | 📅 2021-01-16 License 2.0]
 
 \== UI/Cluster Management
 
-* <https://www.kafka-eagle.org/[Kafka> Eagle]: A easy and high-performance monitoring system, as well as offsets or metadata and other kafka information. <https://github.com/smartloli/kafka-eagle/blob/master/LICENSE[Apache> ⭐ 3,182 | 🐛 224 | 🌐 Java | 📅 2026-09-12 License 2.0]
+* <https://www.kafka-eagle.org/[Kafka> Eagle]: A easy and high-performance monitoring system, as well as offsets or metadata and other kafka information. <https://github.com/smartloli/kafka-eagle/blob/master/LICENSE[Apache> ⭐ 3,183 | 🐛 224 | 🌐 Java | 📅 2026-09-12 License 2.0]
 * <https://kafkawize.com/[Kafkawize>]: Kafkawize : A Self service Apache Kafka Topic Management tool/portal.A Web application which automates the process of creating and browsing Kafka topics, acls, schemas by introducing roles/authorizations to users of various teams of an org. <https://github.com/muralibasani/kafkawize/blob/master/LICENSE[Apache> ⭐ 21 | 🐛 2 | 🌐 HTML | 📅 2023-07-07 License 2.0]
-* <https://github.com/tchiotludo/akhq[AKHQ>]: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more. <https://github.com/tchiotludo/kafkahq/blob/dev/LICENSE[Apache> ⭐ 3,855 | 🐛 284 | 🌐 Java | 📅 2026-09-21 License 2.0]
+* <https://github.com/tchiotludo/akhq[AKHQ>]: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more. <https://github.com/tchiotludo/kafkahq/blob/dev/LICENSE[Apache> ⭐ 3,855 | 🐛 288 | 🌐 Java | 📅 2026-09-21 License 2.0]
 * <https://github.com/yahoo/CMAK[CMAK>]: CMAK (previously known as Kafka Manager) is a tool for managing Apache Kafka clusters.See below for details about the name change. <https://github.com/yahoo/CMAK/blob/master/LICENSE[Apache> ⭐ 11,923 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 License 2.0]
 * <https://github.com/obsidiandynamics/kafdrop[Kafdrop> – Kafka Web UI]: Kafdrop is a web UI for viewing Kafka topics and browsing consumer groups.The tool displays information such as brokers, topics, partitions, consumers, and lets you view messages. <https://github.com/obsidiandynamics/kafdrop/blob/master/LICENSE[Apache> ⭐ 6,156 | 🐛 42 | 🌐 Java | 📅 2026-09-21 License 2.0]
 * <https://github.com/oslabs-beta/klustr[klustr>]: Monitoring tool and graphic visualizer for Apache Kafka that helps you track key metrics about your cluster in real-time. <https://github.com/oslabs-beta/klustr/blob/main/LICENSE[MIT> ⭐ 98 | 🐛 1 | 🌐 JavaScript | 📅 2021-02-26 License]
 * <https://github.com/zalando-incubator/remora[Remora>]: Kafka consumer lag-checking application for monitoring, written in Scala and Akka HTTP; a wrap around the Kafka consumer group command.Integrations with Cloudwatch and Datadog.Authentication recently added. <https://github.com/zalando-incubator/remora/blob/master/LICENSE[MIT> ⭐ 202 | 🐛 6 | 🌐 Scala | 📅 2022-09-29 License]
-* <https://github.com/cloudhut/kowl[Kowl>]: Kowl is a modern Kafka Web UI for exploring Kafka messages, configurations and more with a focus on a good UI/UX. Written in Go & React. <https://github.com/cloudhut/kowl/blob/master/LICENSE[Apache> ⭐ 4,334 | 🐛 148 | 🌐 TypeScript | 📅 2026-09-21 2.0 License]
+* <https://github.com/cloudhut/kowl[Kowl>]: Kowl is a modern Kafka Web UI for exploring Kafka messages, configurations and more with a focus on a good UI/UX. Written in Go & React. <https://github.com/cloudhut/kowl/blob/master/LICENSE[Apache> ⭐ 4,334 | 🐛 150 | 🌐 TypeScript | 📅 2026-09-22 2.0 License]
 
 \== Other Awesome Lists about Apache Kafka & Data Engineering
 
@@ -146,4 +146,4 @@ This work is licensed under a <http://creativecommons.org/licenses/by-sa/4.0/[Cr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
