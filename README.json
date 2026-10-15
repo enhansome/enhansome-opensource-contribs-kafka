@@ -203,7 +203,7 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T16:45:09Z",
+            "last_commit": "2026-10-15T16:50:03Z",
             "open_issues": 1329,
             "owner": "confluentinc",
             "repo": "ksql",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:32:40Z",
-            "open_issues": 641,
+            "last_commit": "2026-10-15T15:54:33Z",
+            "open_issues": 633,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 33951,
+            "stars": 33960,
             "topics": [
               "java",
               "kafka",
@@ -372,10 +372,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-14T07:17:38Z",
-            "open_issues": 634,
+            "open_issues": 636,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8750,
+            "stars": 8751,
             "topics": [
               "docker",
               "docker-compose",
@@ -403,7 +403,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-09-12T13:32:25Z",
-            "open_issues": 224,
+            "open_issues": 223,
             "owner": "smartloli",
             "repo": "EFAK",
             "stars": 3180,
@@ -465,7 +465,7 @@
             "open_issues": 27,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3304,
+            "stars": 3305,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:06:11.831Z",
+    "last_updated": "2026-10-15T16:55:10.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
