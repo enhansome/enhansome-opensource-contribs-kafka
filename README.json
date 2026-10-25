@@ -19,7 +19,7 @@
             "open_issues": 419,
             "owner": "tulios",
             "repo": "kafkajs",
-            "stars": 3999,
+            "stars": 3998,
             "topics": [
               "kafka",
               "kafka-client",
@@ -203,7 +203,7 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T15:34:56Z",
+            "last_commit": "2026-10-25T14:05:20Z",
             "open_issues": 1328,
             "owner": "confluentinc",
             "repo": "ksql",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T11:40:01Z",
-            "open_issues": 670,
+            "last_commit": "2026-10-25T13:35:30Z",
+            "open_issues": 666,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 34113,
+            "stars": 34117,
             "topics": [
               "java",
               "kafka",
@@ -371,11 +371,11 @@
             "id": 33816473,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-20T20:49:33Z",
-            "open_issues": 628,
+            "last_commit": "2026-10-25T05:50:23Z",
+            "open_issues": 629,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8755,
+            "stars": 8756,
             "topics": [
               "docker",
               "docker-compose",
@@ -465,7 +465,7 @@
             "open_issues": 28,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3307,
+            "stars": 3308,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T15:52:16.432Z",
+    "last_updated": "2026-10-25T16:08:26.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
