@@ -19,7 +19,7 @@
             "open_issues": 419,
             "owner": "tulios",
             "repo": "kafkajs",
-            "stars": 3997,
+            "stars": 3998,
             "topics": [
               "kafka",
               "kafka-client",
@@ -203,8 +203,8 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T17:56:46Z",
-            "open_issues": 1330,
+            "last_commit": "2026-10-28T18:10:11Z",
+            "open_issues": 1329,
             "owner": "confluentinc",
             "repo": "ksql",
             "stars": 316,
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T17:40:17Z",
-            "open_issues": 672,
+            "last_commit": "2026-10-28T17:26:24Z",
+            "open_issues": 667,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 34142,
+            "stars": 34152,
             "topics": [
               "java",
               "kafka",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T17:57:06.437Z",
+    "last_updated": "2026-10-28T18:19:20.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
