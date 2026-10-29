@@ -112,8 +112,8 @@
             "id": 123581868,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T01:49:54Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-29T02:45:06Z",
+            "open_issues": 65,
             "owner": "confluentinc",
             "repo": "demo-scene",
             "stars": 1569,
@@ -203,7 +203,7 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T18:10:11Z",
+            "last_commit": "2026-10-29T18:15:46Z",
             "open_issues": 1329,
             "owner": "confluentinc",
             "repo": "ksql",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T17:26:24Z",
-            "open_issues": 667,
+            "last_commit": "2026-10-29T15:42:03Z",
+            "open_issues": 675,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 34152,
+            "stars": 34150,
             "topics": [
               "java",
               "kafka",
@@ -375,7 +375,7 @@
             "open_issues": 638,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8758,
+            "stars": 8759,
             "topics": [
               "docker",
               "docker-compose",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:19:20.087Z",
+    "last_updated": "2026-10-29T18:25:32.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
