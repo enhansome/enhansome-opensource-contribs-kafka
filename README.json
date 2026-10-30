@@ -145,7 +145,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-27T10:27:41Z",
-            "open_issues": 280,
+            "open_issues": 279,
             "owner": "robinhood",
             "repo": "faust",
             "stars": 6823,
@@ -203,8 +203,8 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T18:15:46Z",
-            "open_issues": 1329,
+            "last_commit": "2026-10-30T17:45:25Z",
+            "open_issues": 1330,
             "owner": "confluentinc",
             "repo": "ksql",
             "stars": 316,
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T15:42:03Z",
-            "open_issues": 675,
+            "last_commit": "2026-10-30T17:02:41Z",
+            "open_issues": 677,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 34150,
+            "stars": 34099,
             "topics": [
               "java",
               "kafka",
@@ -372,7 +372,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-26T22:29:56Z",
-            "open_issues": 638,
+            "open_issues": 641,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
             "stars": 8759,
@@ -465,7 +465,7 @@
             "open_issues": 28,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3308,
+            "stars": 3309,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:25:32.315Z",
+    "last_updated": "2026-10-30T17:58:41.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
