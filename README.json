@@ -203,11 +203,11 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T19:30:28Z",
-            "open_issues": 1331,
+            "last_commit": "2026-11-12T19:47:49Z",
+            "open_issues": 1329,
             "owner": "confluentinc",
             "repo": "ksql",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "event-streaming-database",
               "interactive",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T16:56:00Z",
-            "open_issues": 707,
+            "last_commit": "2026-11-12T19:23:52Z",
+            "open_issues": 708,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 34210,
+            "stars": 34212,
             "topics": [
               "java",
               "kafka",
@@ -264,10 +264,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T10:47:24Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "Aiven-Open",
             "repo": "karapace",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "kafka",
               "rest-proxy",
@@ -289,10 +289,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T10:47:24Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "Aiven-Open",
             "repo": "karapace",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "kafka",
               "rest-proxy",
@@ -406,7 +406,7 @@
             "open_issues": 224,
             "owner": "smartloli",
             "repo": "EFAK",
-            "stars": 3179,
+            "stars": 3180,
             "topics": [
               "ai",
               "consumer-group",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:32:27.014Z",
+    "last_updated": "2026-11-12T19:51:40.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
