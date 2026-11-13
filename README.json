@@ -112,7 +112,7 @@
             "id": 123581868,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T04:56:47Z",
+            "last_commit": "2026-11-13T04:57:31Z",
             "open_issues": 65,
             "owner": "confluentinc",
             "repo": "demo-scene",
@@ -148,7 +148,7 @@
             "open_issues": 279,
             "owner": "robinhood",
             "repo": "faust",
-            "stars": 6824,
+            "stars": 6823,
             "topics": [
               "asyncio",
               "distributed-systems",
@@ -203,7 +203,7 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T19:47:49Z",
+            "last_commit": "2026-11-13T19:32:48Z",
             "open_issues": 1329,
             "owner": "confluentinc",
             "repo": "ksql",
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T19:23:52Z",
-            "open_issues": 708,
+            "last_commit": "2026-11-13T18:53:03Z",
+            "open_issues": 719,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 34212,
+            "stars": 34214,
             "topics": [
               "java",
               "kafka",
@@ -372,10 +372,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-11-09T22:30:20Z",
-            "open_issues": 648,
+            "open_issues": 651,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8760,
+            "stars": 8762,
             "topics": [
               "docker",
               "docker-compose",
@@ -465,7 +465,7 @@
             "open_issues": 30,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3313,
+            "stars": 3312,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:51:40.676Z",
+    "last_updated": "2026-11-13T19:36:07.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
