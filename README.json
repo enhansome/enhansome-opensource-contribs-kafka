@@ -203,8 +203,8 @@
             "id": 69400326,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T22:20:11Z",
-            "open_issues": 1334,
+            "last_commit": "2026-11-25T21:35:57Z",
+            "open_issues": 1331,
             "owner": "confluentinc",
             "repo": "ksql",
             "stars": 318,
@@ -237,11 +237,11 @@
             "id": 2211243,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T21:45:18Z",
-            "open_issues": 732,
+            "last_commit": "2026-11-25T20:13:36Z",
+            "open_issues": 730,
             "owner": "apache",
             "repo": "kafka",
-            "stars": 34314,
+            "stars": 34352,
             "topics": [
               "java",
               "kafka",
@@ -264,7 +264,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T08:35:31Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "Aiven-Open",
             "repo": "karapace",
             "stars": 642,
@@ -289,7 +289,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T08:35:31Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "Aiven-Open",
             "repo": "karapace",
             "stars": 642,
@@ -317,7 +317,7 @@
             "open_issues": 17,
             "owner": "raystack",
             "repo": "stencil",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "cli",
               "clojure",
@@ -375,7 +375,7 @@
             "open_issues": 649,
             "owner": "testcontainers",
             "repo": "testcontainers-java",
-            "stars": 8770,
+            "stars": 8771,
             "topics": [
               "docker",
               "docker-compose",
@@ -465,7 +465,7 @@
             "open_issues": 30,
             "owner": "gunnarmorling",
             "repo": "awesome-opensource-data-engineering",
-            "stars": 3315,
+            "stars": 3314,
             "topics": [
               "awesome-list",
               "data-engineering"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:20:29.195Z",
+    "last_updated": "2026-11-25T21:37:02.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of all awesome open-source contributions for the Apache Kafka project",
